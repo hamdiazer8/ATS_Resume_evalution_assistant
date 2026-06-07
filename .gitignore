@@ -1,0 +1,15 @@
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# n8n local data (if running locally)
+.n8n/
+
+# OS
+.DS_Store
+Thumbs.db
