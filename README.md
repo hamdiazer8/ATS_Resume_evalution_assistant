@@ -42,23 +42,23 @@ Recruiters often receive hundreds of resumes for a single position. This project
 
 Webhook
 
-&#x20;  ↓
+   ↓
 
 Resume Extraction
 
-&#x20;  ↓
+   ↓
 
 Data Processing
 
-&#x20;  ↓
+   ↓
 
 Groq LLM Analysis
 
-&#x20;  ↓
+   ↓
 
 JSON Parsing
 
-&#x20;  ↓
+   ↓
 
 Google Sheets
 
